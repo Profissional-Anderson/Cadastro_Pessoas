@@ -5,7 +5,7 @@
 ### Layout completo do projeto: 
 <p align="center"><p> Esse projeto foi bem simples, mas bem educativo e fácil para a aprendizagem nele utilizamos as tecnologias: HTML,  CSS , PHP e SQL.</p>
 
-<p align="center"><img width="960" height="399" src="/Cadastro de pessoas/img/layout.jpg"></p>
+<p align="center"><img width="1060" height="399" src="/Cadastro de pessoas/img/layout.jpg"></p>
 
 <p align="center">No site o usuário pode preencher seus dados: Nome, Telefone e Email.<p> 
 
@@ -22,7 +22,7 @@
 
 <p align="center"><img width="560" height="399" src="/Cadastro de pessoas/img/erro1.jpg"></p>  
 
-<P align="center">Se o e-mail já foi cadastrado anteriormente será apresentado uma mensagem: "E-mail já cadastrado!". </p>
+<P align="center">Se o e-mail já foi cadastrado anteriormente será apresentado uma mensagem: "Email já cadastrado!". </p>
 
 
 <p align="center"><img width="560" height="399" src="/Cadastro de pessoas/img/erro2.jpg"></p>  
