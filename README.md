@@ -5,11 +5,11 @@
 ### Layout completo do projeto: 
 <p align="center"><p> Esse projeto foi bem simples, mas bem educativo e fácil para a aprendizagem nele utilizamos as tecnologias: HTML,  CSS , PHP e SQL.</p>
 
-<p align="center"><img width="860" height="399" src="/Cadastro de pessoas/img/layout.jpg"></p>
+<p align="center"><img width="960" height="399" src="/Cadastro de pessoas/img/layout.jpg"></p>
 
 <p align="center">No site o usuário pode preencher seus dados: Nome, Telefone e Email.<p> 
 
-<p align="center"><img width="560" height="399" src="/Cadastro de pessoas/img/Cadastro.jpg"></p>
+<p align="center"><img width="460" height="399" src="/Cadastro de pessoas/img/Cadastro.jpg"></p>
 
 
 <P align="center">E consecutivamente será cadastrado e aparecerá as informações cadastradas no lado esquerdo da página.</p> 
