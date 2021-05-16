@@ -36,9 +36,11 @@
 <P align="center">Na parte de cadastrar vai aparecer as antigas informações do usuário cadastrado, onde ele poderá corrigir e aperta no botão: "Atualizar". Desse modo as informações novas serão atualizadas e apareceram na tabela a esquerda.</p>
 
 <p float="left">
-  <img src="/Cadastro de pessoas/img/editar1.jpg" width="560" height="399"/>
-  <img src="/Cadastro de pessoas/img/editar2.jpg" width="860" height="399"/>
+  <p align="center"><img src="/Cadastro de pessoas/img/editar1.jpg" width="560" height="399"/></p>
+ <p align="center"> <img src="/Cadastro de pessoas/img/editar2.jpg" width="860" height="399"/></p>
 </p>
+
+
 
 
 <P align="center">Ao cadastrar as informações serão exibidas na tabela, Se o usuário desejar excluir alguma informação basta clicar no botão: " Excluir". Assim as informações que foram cadastradas serão excluídas e a tabela vai atualizar automaticamente.</p>
