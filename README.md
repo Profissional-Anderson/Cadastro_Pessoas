@@ -35,9 +35,12 @@
  
 <P align="center">Na parte de cadastrar vai aparecer as antigas informações do usuário cadastrado, onde ele poderá corrigir e aperta no botão: "Atualizar". Desse modo as informações novas serão atualizadas e apareceram na tabela a esquerda.</p>
 
+
 <p float="left">
   <p align="center"><img src="/Cadastro de pessoas/img/editar1.jpg" width="560" height="399"/></p>
+   <p align="center">No exemplo acima editamos o número de telefone do usuário Ojuara. </p>
  <p align="center"> <img src="/Cadastro de pessoas/img/editar2.jpg" width="860" height="399"/></p>
+    <p align="center">Depois de editarmos e apertamos o botão: "Atualizar". O novo número irá aparecer na tabela.</p>
 </p>
 
 
