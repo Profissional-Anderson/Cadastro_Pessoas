@@ -28,7 +28,7 @@
 <p align="center"><img width="560" height="399" src="/Cadastro de pessoas/img/erro2.jpg"></p>  
 
 
-<P align="center">Ao cadastrar as informações serão exibidas na tabela, Se o usuário desejar editar alguma informação basta clicar no botão: "Editar".</p>
+<P align="center">Ao cadastrar as informações serão exibidas na tabela, se o usuário desejar editar alguma informação basta clicar no botão: "Editar".</p>
 
 <p align="center"><img width="860" height="399" src="/Cadastro de pessoas/img/editar_excluir.jpg"></p>
 
