@@ -30,7 +30,7 @@
 
 <P align="center">Ao cadastrar as informações serão exibidas na tabela, se o usuário desejar editar alguma informação basta clicar no botão: "Editar".</p>
 
-<p align="center"><img width="860" height="399" src="/Cadastro de pessoas/img/editar_excluir.jpg"></p>
+<p align="center"><img width="860" height="399" src="/Cadastro de pessoas/img/editar.jpg"></p>
 
  
 <P align="center">Na parte de cadastrar vai aparecer as antigas informações do usuário cadastrado, onde ele poderá corrigir e aperta no botão: "Atualizar". Desse modo as informações novas serão atualizadas e apareceram na tabela a esquerda.</p>
